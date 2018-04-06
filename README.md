@@ -1,7 +1,7 @@
 # My #100DaysOfCode Logs
 
 ### Rounds:
-* [Round One - 2018](R1.md)
+* [Warm Up - 2018](R1.md)
 
-For more information visit [official repo](https://github.com/Kallaway/100-days-of-code).
+For more information visit [original repo](https://github.com/Kallaway/100-days-of-code).
 
